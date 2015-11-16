@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appleButtonText">Go to Oranges</string>
+    <string name="apples">Apples</string>
+    <string name="title_activity_oranges">Oranges</string>
+</resources>
